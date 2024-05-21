@@ -1,0 +1,201 @@
+
+GameStart.png
+size: 2012, 2024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+images/black
+  rotate: false
+  xy: 548, 1048
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/hong
+  rotate: true
+  xy: 1524, 1305
+  size: 717, 359
+  orig: 1380, 1920
+  offset: 0, 890
+  index: -1
+images/s
+  rotate: false
+  xy: 456, 32
+  size: 151, 198
+  orig: 1380, 1920
+  offset: 630, 877
+  index: -1
+images/tex/dian/dian_00000
+  rotate: false
+  xy: 548, 711
+  size: 868, 309
+  orig: 1000, 1000
+  offset: 30, 329
+  index: -1
+images/tex/dian/dian_00001
+  rotate: false
+  xy: 748, 1504
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/tex/dian/dian_00003
+  rotate: false
+  xy: 748, 1504
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/tex/dian/dian_00005
+  rotate: false
+  xy: 748, 1504
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/tex/dian/dian_00007
+  rotate: false
+  xy: 748, 1504
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/tex/dian/dian_00008
+  rotate: false
+  xy: 748, 1504
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/tex/dian/dian_00010
+  rotate: false
+  xy: 748, 1504
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/tex/dian/dian_00002
+  rotate: true
+  xy: 1720, 162
+  size: 849, 290
+  orig: 1000, 1000
+  offset: 40, 342
+  index: -1
+images/tex/dian/dian_00006
+  rotate: true
+  xy: 1417, 162
+  size: 858, 301
+  orig: 1000, 1000
+  offset: 32, 351
+  index: -1
+images/tex/dian/dian_00009
+  rotate: false
+  xy: 2, 1100
+  size: 873, 376
+  orig: 1000, 1000
+  offset: 19, 294
+  index: -1
+images/tex/huox/huox (1)
+  rotate: false
+  xy: 734, 115
+  size: 116, 115
+  orig: 1300, 1920
+  offset: 654, 756
+  index: -1
+images/tex/huox/huox (11)
+  rotate: false
+  xy: 609, 108
+  size: 123, 122
+  orig: 1300, 1920
+  offset: 647, 819
+  index: -1
+images/tex/huox/huox (2)
+  rotate: false
+  xy: 877, 1022
+  size: 645, 483
+  orig: 1300, 1920
+  offset: 313, 1039
+  index: -1
+images/tex/huox/huox (3)
+  rotate: false
+  xy: 748, 1507
+  size: 696, 515
+  orig: 1300, 1920
+  offset: 290, 983
+  index: -1
+images/tex/huox/huox (4)
+  rotate: false
+  xy: 2, 1478
+  size: 744, 544
+  orig: 1300, 1920
+  offset: 267, 928
+  index: -1
+images/tex/huox/huox (5)
+  rotate: false
+  xy: 2, 575
+  size: 544, 523
+  orig: 1300, 1920
+  offset: 349, 889
+  index: -1
+images/tex/huox/huox (6)
+  rotate: true
+  xy: 2, 2
+  size: 571, 452
+  orig: 1300, 1920
+  offset: 333, 906
+  index: -1
+images/tex/huox/huox (8)
+  rotate: false
+  xy: 548, 232
+  size: 547, 477
+  orig: 1300, 1920
+  offset: 376, 792
+  index: -1
+images/v
+  rotate: false
+  xy: 1524, 1107
+  size: 166, 196
+  orig: 1380, 1920
+  offset: 557, 905
+  index: -1
+
+GameStart_2.png
+size: 1467, 857
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+images/lan
+  rotate: true
+  xy: 663, 2
+  size: 725, 333
+  orig: 1380, 1920
+  offset: 655, 890
+  index: -1
+images/tex/dian/dian_00004
+  rotate: true
+  xy: 404, 2
+  size: 853, 257
+  orig: 1000, 1000
+  offset: 36, 356
+  index: -1
+images/tex/huox/huox (10)
+  rotate: false
+  xy: 2, 99
+  size: 400, 381
+  orig: 1300, 1920
+  offset: 452, 625
+  index: -1
+images/tex/huox/huox (7)
+  rotate: true
+  xy: 998, 2
+  size: 529, 467
+  orig: 1300, 1920
+  offset: 382, 849
+  index: -1
+images/tex/huox/huox (9)
+  rotate: false
+  xy: 2, 482
+  size: 395, 373
+  orig: 1300, 1920
+  offset: 454, 694
+  index: -1

@@ -1,0 +1,71 @@
+{
+    "saveName": "WorldFont1",
+    "bitMapCfg": [
+        {
+            "image": "/Volumes/027_今晚吃鸡鸭/游戏美术资源/场景UI素材/Fonts/WorldRankingFont/WorldFont1/WorldFont1_0.png",
+            "char": "0",
+            "width": 22,
+            "height": 27
+        },
+        {
+            "image": "/Volumes/027_今晚吃鸡鸭/游戏美术资源/场景UI素材/Fonts/WorldRankingFont/WorldFont1/WorldFont1_1.png",
+            "char": "1",
+            "width": 22,
+            "height": 27
+        },
+        {
+            "image": "/Volumes/027_今晚吃鸡鸭/游戏美术资源/场景UI素材/Fonts/WorldRankingFont/WorldFont1/WorldFont1_2.png",
+            "char": "2",
+            "width": 22,
+            "height": 27
+        },
+        {
+            "image": "/Volumes/027_今晚吃鸡鸭/游戏美术资源/场景UI素材/Fonts/WorldRankingFont/WorldFont1/WorldFont1_3.png",
+            "char": "3",
+            "width": 22,
+            "height": 27
+        },
+        {
+            "image": "/Volumes/027_今晚吃鸡鸭/游戏美术资源/场景UI素材/Fonts/WorldRankingFont/WorldFont1/WorldFont1_4.png",
+            "char": "4",
+            "width": 22,
+            "height": 27
+        },
+        {
+            "image": "/Volumes/027_今晚吃鸡鸭/游戏美术资源/场景UI素材/Fonts/WorldRankingFont/WorldFont1/WorldFont1_5.png",
+            "char": "5",
+            "width": 22,
+            "height": 27
+        },
+        {
+            "image": "/Volumes/027_今晚吃鸡鸭/游戏美术资源/场景UI素材/Fonts/WorldRankingFont/WorldFont1/WorldFont1_6.png",
+            "char": "6",
+            "width": 22,
+            "height": 27
+        },
+        {
+            "image": "/Volumes/027_今晚吃鸡鸭/游戏美术资源/场景UI素材/Fonts/WorldRankingFont/WorldFont1/WorldFont1_7.png",
+            "char": "7",
+            "width": 22,
+            "height": 27
+        },
+        {
+            "image": "/Volumes/027_今晚吃鸡鸭/游戏美术资源/场景UI素材/Fonts/WorldRankingFont/WorldFont1/WorldFont1_8.png",
+            "char": "8",
+            "width": 22,
+            "height": 27
+        },
+        {
+            "image": "/Volumes/027_今晚吃鸡鸭/游戏美术资源/场景UI素材/Fonts/WorldRankingFont/WorldFont1/WorldFont1_9.png",
+            "char": "9",
+            "width": 22,
+            "height": 27
+        },
+        {
+            "image": "/Volumes/027_今晚吃鸡鸭/游戏美术资源/场景UI素材/Fonts/WorldRankingFont/WorldFont1/WorldFont1_Title.png",
+            "char": "r",
+            "width": 111,
+            "height": 31
+        }
+    ]
+}

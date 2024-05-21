@@ -1,0 +1,429 @@
+{
+"LevelCoinfig":[
+ {
+  "stage": 0,
+  "mosnter_id": 1100,
+  "gift_num_count": 0,
+  "like_add_force": 5,
+  "send_add_force": 15
+ },
+ {
+  "stage": 1,
+  "mosnter_id": 1101,
+  "gift_num_count": 1,
+  "like_add_force": 10,
+  "send_add_force": 30
+ },
+ {
+  "stage": 2,
+  "mosnter_id": 1102,
+  "gift_num_count": 11,
+  "like_add_force": 14,
+  "send_add_force": 42
+ },
+ {
+  "stage": 3,
+  "mosnter_id": 1103,
+  "gift_num_count": 77,
+  "like_add_force": 21,
+  "send_add_force": 63
+ },
+ {
+  "stage": 4,
+  "mosnter_id": 1104,
+  "gift_num_count": 265,
+  "like_add_force": 45,
+  "send_add_force": 135
+ },
+ {
+  "stage": 5,
+  "mosnter_id": 1105,
+  "gift_num_count": 785,
+  "like_add_force": 95,
+  "send_add_force": 285
+ },
+ {
+  "stage": 6,
+  "mosnter_id": 1106,
+  "gift_num_count": 1305,
+  "like_add_force": 145,
+  "send_add_force": 435
+ },
+ {
+  "stage": 7,
+  "mosnter_id": 1107,
+  "gift_num_count": 2304,
+  "like_add_force": 245,
+  "send_add_force": 735
+ },
+ {
+  "stage": 8,
+  "mosnter_id": 1108,
+  "gift_num_count": 3618,
+  "like_add_force": 335,
+  "send_add_force": 1005
+ },
+ {
+  "stage": 9,
+  "mosnter_id": 1109,
+  "gift_num_count": 6246,
+  "like_add_force": 485,
+  "send_add_force": 1455
+ },
+ {
+  "stage": 10,
+  "mosnter_id": 1110,
+  "gift_num_count": 10188,
+  "like_add_force": 605,
+  "send_add_force": 1815
+ },
+ {
+  "stage": 11,
+  "mosnter_id": 2100,
+  "gift_num_count": 0,
+  "like_add_force": 5,
+  "send_add_force": 15
+ },
+ {
+  "stage": 12,
+  "mosnter_id": 2101,
+  "gift_num_count": 1,
+  "like_add_force": 10,
+  "send_add_force": 30
+ },
+ {
+  "stage": 13,
+  "mosnter_id": 2102,
+  "gift_num_count": 11,
+  "like_add_force": 14,
+  "send_add_force": 42
+ },
+ {
+  "stage": 14,
+  "mosnter_id": 2103,
+  "gift_num_count": 77,
+  "like_add_force": 21,
+  "send_add_force": 63
+ },
+ {
+  "stage": 15,
+  "mosnter_id": 2104,
+  "gift_num_count": 265,
+  "like_add_force": 45,
+  "send_add_force": 135
+ },
+ {
+  "stage": 16,
+  "mosnter_id": 2105,
+  "gift_num_count": 785,
+  "like_add_force": 95,
+  "send_add_force": 285
+ },
+ {
+  "stage": 17,
+  "mosnter_id": 2106,
+  "gift_num_count": 1305,
+  "like_add_force": 145,
+  "send_add_force": 435
+ },
+ {
+  "stage": 18,
+  "mosnter_id": 2107,
+  "gift_num_count": 2304,
+  "like_add_force": 245,
+  "send_add_force": 735
+ },
+ {
+  "stage": 19,
+  "mosnter_id": 2108,
+  "gift_num_count": 3618,
+  "like_add_force": 335,
+  "send_add_force": 1005
+ },
+ {
+  "stage": 20,
+  "mosnter_id": 2109,
+  "gift_num_count": 6246,
+  "like_add_force": 485,
+  "send_add_force": 1455
+ },
+ {
+  "stage": 21,
+  "mosnter_id": 2110,
+  "gift_num_count": 10188,
+  "like_add_force": 605,
+  "send_add_force": 1815
+ }
+],
+"Monster":[
+ {
+  "MonsterID": 1100,
+  "Force": 10,
+  "CPosScale": 1,
+  "NorScale": 0.7,
+  "InfoHeight": 85
+ },
+ {
+  "MonsterID": 1200,
+  "Force": 300,
+  "LiveTime": 30,
+  "NorScale": 1,
+  "InfoHeight": 130
+ },
+ {
+  "MonsterID": 1300,
+  "Force": 400,
+  "LiveTime": 60,
+  "NorScale": 1,
+  "InfoHeight": 145
+ },
+ {
+  "MonsterID": 1400,
+  "Force": 1050,
+  "LiveTime": 90,
+  "NorScale": 1,
+  "InfoHeight": 160
+ },
+ {
+  "MonsterID": 1401,
+  "Force": 1200,
+  "LiveTime": 90,
+  "NorScale": 1,
+  "InfoHeight": 160
+ },
+ {
+  "MonsterID": 1500,
+  "Force": 2000,
+  "LiveTime": 120,
+  "NorScale": 1,
+  "InfoHeight": 160
+ },
+ {
+  "MonsterID": 1501,
+  "Force": 2500,
+  "LiveTime": 120,
+  "NorScale": 1,
+  "InfoHeight": 160
+ },
+ {
+  "MonsterID": 1600,
+  "Force": 4000,
+  "LiveTime": 180,
+  "NorScale": 1,
+  "InfoHeight": 160
+ },
+ {
+  "MonsterID": 1601,
+  "Force": 8000,
+  "LiveTime": 180,
+  "NorScale": 0.8,
+  "InfoHeight": 160
+ },
+ {
+  "MonsterID": 2100,
+  "Force": 10,
+  "CPosScale": 1,
+  "NorScale": 0.7,
+  "InfoHeight": 85
+ },
+ {
+  "MonsterID": 2200,
+  "Force": 300,
+  "LiveTime": 30,
+  "NorScale": 1,
+  "InfoHeight": 130
+ },
+ {
+  "MonsterID": 2300,
+  "Force": 400,
+  "LiveTime": 60,
+  "NorScale": 1,
+  "InfoHeight": 145
+ },
+ {
+  "MonsterID": 2400,
+  "Force": 1050,
+  "LiveTime": 90,
+  "NorScale": 1,
+  "InfoHeight": 160
+ },
+ {
+  "MonsterID": 2401,
+  "Force": 1200,
+  "LiveTime": 90,
+  "NorScale": 1,
+  "InfoHeight": 160
+ },
+ {
+  "MonsterID": 2500,
+  "Force": 2000,
+  "LiveTime": 120,
+  "NorScale": 1,
+  "InfoHeight": 160
+ },
+ {
+  "MonsterID": 2501,
+  "Force": 2500,
+  "LiveTime": 120,
+  "NorScale": 1,
+  "InfoHeight": 160
+ },
+ {
+  "MonsterID": 2600,
+  "Force": 4000,
+  "LiveTime": 180,
+  "NorScale": 1,
+  "InfoHeight": 160
+ },
+ {
+  "MonsterID": 2601,
+  "Force": 8000,
+  "LiveTime": 180,
+  "NorScale": 0.8,
+  "InfoHeight": 160
+ }
+],
+"Score":[
+ {
+  "ID": 1,
+  "Value": 0,
+  "Action": "加入阵营",
+  "Score": 10
+ },
+ {
+  "ID": 2,
+  "Value": 0,
+  "Action": "点赞",
+  "Score": 0.1
+ },
+ {
+  "ID": 3,
+  "Value": 1,
+  "Action": "仙女棒",
+  "Score": 25
+ },
+ {
+  "ID": 4,
+  "Value": 10,
+  "Action": "能力药丸",
+  "Score": 250
+ },
+ {
+  "ID": 5,
+  "Value": 19,
+  "Action": "魔法镜",
+  "Score": 475
+ },
+ {
+  "ID": 6,
+  "Value": 52,
+  "Action": "甜甜圈",
+  "Score": 1300
+ },
+ {
+  "ID": 7,
+  "Value": 99,
+  "Action": "能量电池",
+  "Score": 2475
+ },
+ {
+  "ID": 8,
+  "Value": 199,
+  "Action": "恶魔炸弹",
+  "Score": 4975
+ },
+ {
+  "ID": 101,
+  "Value": 0,
+  "Action": "加入阵营",
+  "Score": 5
+ },
+ {
+  "ID": 102,
+  "Value": 0,
+  "Action": "点赞",
+  "Score": 0
+ },
+ {
+  "ID": 103,
+  "Value": 1,
+  "Action": "仙女棒",
+  "Score": 10
+ },
+ {
+  "ID": 104,
+  "Value": 10,
+  "Action": "能力药丸",
+  "Score": 100
+ },
+ {
+  "ID": 105,
+  "Value": 19,
+  "Action": "魔法镜",
+  "Score": 190
+ },
+ {
+  "ID": 106,
+  "Value": 52,
+  "Action": "甜甜圈",
+  "Score": 520
+ },
+ {
+  "ID": 107,
+  "Value": 99,
+  "Action": "能量电池",
+  "Score": 990
+ },
+ {
+  "ID": 108,
+  "Value": 199,
+  "Action": "恶魔炸弹",
+  "Score": 1990
+ }
+],
+"BroadcastConfig":[
+ {
+  "ID": 1,
+  "Action": "点赞",
+  "Broadcast1": 75,
+  "Broadcast2": 125,
+  "Broadcast3": 150,
+  "Broadcast4": 175,
+  "Broadcast5": 200
+ },
+ {
+  "ID": 2,
+  "Action": "累计积分大播报",
+  "Broadcast1": 15000,
+  "Broadcast2": 30000,
+  "Broadcast3": 45000,
+  "Broadcast4": 67500,
+  "Broadcast5": 135000,
+  "Broadcast6": 270000,
+  "Broadcast7": 540000,
+  "Broadcast8": 1080000,
+  "Broadcast9": 2160000
+ },
+ {
+  "ID": 3,
+  "Action": "累计积分小播报",
+  "Broadcast1": 2500,
+  "Broadcast2": 5000,
+  "Broadcast3": 7500,
+  "Broadcast4": 10000,
+  "Broadcast5": 12500
+ }
+],
+"MapConfig":[
+ {
+  "minSpeed": 3,
+  "maxSpeed": 7,
+  "ration": 0.4,
+  "baseLine": 200,
+  "limitTimeMinSpeed": 1.5,
+  "limitTimeMaxSpeed": 2,
+  "limitTimeRation": 0.05,
+  "limitTimeBaseLine": 200
+ }
+]
+}

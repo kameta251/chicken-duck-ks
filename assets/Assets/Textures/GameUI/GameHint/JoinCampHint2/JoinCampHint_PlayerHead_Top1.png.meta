@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "bb6ccdfe-9df3-4f25-9d8c-d35ddf080d94",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "bb6ccdfe-9df3-4f25-9d8c-d35ddf080d94@6c48a",
+      "displayName": "JoinCampHint_PlayerHead_Top1",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "bb6ccdfe-9df3-4f25-9d8c-d35ddf080d94",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "bb6ccdfe-9df3-4f25-9d8c-d35ddf080d94@f9941",
+      "displayName": "JoinCampHint_PlayerHead_Top1",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 2,
+        "trimY": 2,
+        "width": 76,
+        "height": 28,
+        "rawWidth": 80,
+        "rawHeight": 32,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -38,
+            -14,
+            0,
+            38,
+            -14,
+            0,
+            -38,
+            14,
+            0,
+            38,
+            14,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            2,
+            30,
+            78,
+            30,
+            2,
+            2,
+            78,
+            2
+          ],
+          "nuv": [
+            0.025,
+            0.0625,
+            0.975,
+            0.0625,
+            0.025,
+            0.9375,
+            0.975,
+            0.9375
+          ],
+          "minPos": [
+            -38,
+            -14,
+            0
+          ],
+          "maxPos": [
+            38,
+            14,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "bb6ccdfe-9df3-4f25-9d8c-d35ddf080d94@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "type": "sprite-frame",
+    "redirect": "bb6ccdfe-9df3-4f25-9d8c-d35ddf080d94@f9941"
+  }
+}

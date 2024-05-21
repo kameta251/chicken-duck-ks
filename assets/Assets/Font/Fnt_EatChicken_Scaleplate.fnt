@@ -1,0 +1,15 @@
+info face="face" size=1270
+common lineHeight=1270 scaleW=3837 scaleH=3814 pages=1
+page id=0 file="Fnt_EatChicken_Scaleplate.png"
+chars count=11
+char id=48 x=933 y=0 width=770 height=1270 xoffset=0 yoffset=0 xadvance=770 page=0 chnl=15
+char id=49 x=0 y=2544 width=418 height=1270 xoffset=0 yoffset=0 xadvance=418 page=0 chnl=15
+char id=50 x=2460 y=0 width=739 height=1270 xoffset=0 yoffset=0 xadvance=739 page=0 chnl=15
+char id=51 x=3201 y=0 width=636 height=1270 xoffset=0 yoffset=0 xadvance=636 page=0 chnl=15
+char id=52 x=1705 y=0 width=753 height=1270 xoffset=0 yoffset=0 xadvance=753 page=0 chnl=15
+char id=53 x=0 y=1272 width=723 height=1270 xoffset=0 yoffset=0 xadvance=723 page=0 chnl=15
+char id=54 x=1448 y=1272 width=714 height=1270 xoffset=0 yoffset=0 xadvance=714 page=0 chnl=15
+char id=55 x=725 y=1272 width=721 height=1270 xoffset=0 yoffset=0 xadvance=721 page=0 chnl=15
+char id=56 x=3201 y=1272 width=623 height=1270 xoffset=0 yoffset=0 xadvance=623 page=0 chnl=15
+char id=57 x=2164 y=1272 width=641 height=1270 xoffset=0 yoffset=0 xadvance=641 page=0 chnl=15
+char id=109 x=0 y=0 width=931 height=1270 xoffset=0 yoffset=0 xadvance=931 page=0 chnl=15

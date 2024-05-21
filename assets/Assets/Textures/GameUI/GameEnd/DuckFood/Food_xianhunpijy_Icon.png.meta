@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "dbf26aa4-f190-446a-8220-ffd847f1f22c",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "dbf26aa4-f190-446a-8220-ffd847f1f22c@6c48a",
+      "displayName": "Food_xianhunpijy_Icon",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "dbf26aa4-f190-446a-8220-ffd847f1f22c",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "dbf26aa4-f190-446a-8220-ffd847f1f22c@f9941",
+      "displayName": "Food_xianhunpijy_Icon",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 1,
+        "offsetY": -2,
+        "trimX": 16,
+        "trimY": 4,
+        "width": 754,
+        "height": 490,
+        "rawWidth": 784,
+        "rawHeight": 494,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -377,
+            -245,
+            0,
+            377,
+            -245,
+            0,
+            -377,
+            245,
+            0,
+            377,
+            245,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            16,
+            490,
+            770,
+            490,
+            16,
+            0,
+            770,
+            0
+          ],
+          "nuv": [
+            0.02040816326530612,
+            0,
+            0.9821428571428571,
+            0,
+            0.02040816326530612,
+            0.9919028340080972,
+            0.9821428571428571,
+            0.9919028340080972
+          ],
+          "minPos": [
+            -377,
+            -245,
+            0
+          ],
+          "maxPos": [
+            377,
+            245,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "dbf26aa4-f190-446a-8220-ffd847f1f22c@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "type": "sprite-frame",
+    "redirect": "dbf26aa4-f190-446a-8220-ffd847f1f22c@f9941"
+  }
+}

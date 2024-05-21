@@ -1,0 +1,524 @@
+
+skeleton.png
+size: 1997, 227
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+images/TX/huo/预合成 1_00000
+  rotate: false
+  xy: 618, 2
+  size: 76, 22
+  orig: 100, 50
+  offset: 12, 5
+  index: -1
+images/TX/huo/预合成 1_00001
+  rotate: false
+  xy: 618, 2
+  size: 76, 22
+  orig: 100, 50
+  offset: 12, 5
+  index: -1
+images/TX/huo/预合成 1_00002
+  rotate: false
+  xy: 540, 2
+  size: 76, 22
+  orig: 100, 50
+  offset: 13, 5
+  index: -1
+images/TX/huo/预合成 1_00003
+  rotate: false
+  xy: 1194, 63
+  size: 77, 23
+  orig: 100, 50
+  offset: 13, 5
+  index: -1
+images/TX/huo/预合成 1_00004
+  rotate: false
+  xy: 1194, 63
+  size: 77, 23
+  orig: 100, 50
+  offset: 13, 5
+  index: -1
+images/TX/huo/预合成 1_00005
+  rotate: false
+  xy: 623, 26
+  size: 78, 23
+  orig: 100, 50
+  offset: 12, 5
+  index: -1
+images/TX/huo/预合成 1_00006
+  rotate: false
+  xy: 462, 26
+  size: 79, 23
+  orig: 100, 50
+  offset: 11, 5
+  index: -1
+images/TX/huo/预合成 1_00007
+  rotate: false
+  xy: 2, 5
+  size: 79, 23
+  orig: 100, 50
+  offset: 11, 5
+  index: -1
+images/TX/huo/预合成 1_00008
+  rotate: false
+  xy: 543, 26
+  size: 78, 23
+  orig: 100, 50
+  offset: 11, 5
+  index: -1
+images/TX/huo/预合成 1_00009
+  rotate: false
+  xy: 703, 26
+  size: 77, 23
+  orig: 100, 50
+  offset: 10, 5
+  index: -1
+images/TX/huo/预合成 1_00010
+  rotate: false
+  xy: 1270, 13
+  size: 74, 23
+  orig: 100, 50
+  offset: 11, 5
+  index: -1
+images/TX/huo/预合成 1_00011
+  rotate: false
+  xy: 1270, 13
+  size: 74, 23
+  orig: 100, 50
+  offset: 11, 5
+  index: -1
+images/TX/huo/预合成 1_00012
+  rotate: false
+  xy: 462, 2
+  size: 76, 22
+  orig: 100, 50
+  offset: 10, 6
+  index: -1
+images/TX/huo/预合成 1_00013
+  rotate: false
+  xy: 1194, 38
+  size: 76, 23
+  orig: 100, 50
+  offset: 11, 5
+  index: -1
+images/TX/huo/预合成 1_00014
+  rotate: false
+  xy: 1194, 38
+  size: 76, 23
+  orig: 100, 50
+  offset: 11, 5
+  index: -1
+images/TX/huo/预合成 1_00015
+  rotate: false
+  xy: 1194, 13
+  size: 74, 23
+  orig: 100, 50
+  offset: 12, 5
+  index: -1
+images/TX/huo/预合成 1_00016
+  rotate: false
+  xy: 1346, 38
+  size: 72, 22
+  orig: 100, 50
+  offset: 13, 5
+  index: -1
+images/TX/huo/预合成 1_00017
+  rotate: false
+  xy: 1346, 38
+  size: 72, 22
+  orig: 100, 50
+  offset: 13, 5
+  index: -1
+images/TX/huo/预合成 1_00018
+  rotate: false
+  xy: 1584, 12
+  size: 71, 21
+  orig: 100, 50
+  offset: 14, 6
+  index: -1
+images/TX/huo/预合成 1_00019
+  rotate: false
+  xy: 1657, 58
+  size: 69, 21
+  orig: 100, 50
+  offset: 16, 6
+  index: -1
+images/TX/huo/预合成 1_00020
+  rotate: false
+  xy: 1584, 35
+  size: 71, 21
+  orig: 100, 50
+  offset: 15, 6
+  index: -1
+images/TX/huo/预合成 1_00021
+  rotate: false
+  xy: 1584, 58
+  size: 71, 21
+  orig: 100, 50
+  offset: 15, 6
+  index: -1
+images/TX/huo/预合成 1_00022
+  rotate: false
+  xy: 1584, 81
+  size: 73, 21
+  orig: 100, 50
+  offset: 13, 6
+  index: -1
+images/TX/huo/预合成 1_00023
+  rotate: false
+  xy: 1346, 15
+  size: 75, 21
+  orig: 100, 50
+  offset: 11, 6
+  index: -1
+images/TX/huo/预合成 1_00024
+  rotate: false
+  xy: 1346, 15
+  size: 75, 21
+  orig: 100, 50
+  offset: 11, 6
+  index: -1
+images/TX/huo/预合成 1_00025
+  rotate: false
+  xy: 696, 2
+  size: 75, 22
+  orig: 100, 50
+  offset: 11, 5
+  index: -1
+images/TX/qipao/qipao (1)
+  rotate: false
+  xy: 857, 124
+  size: 211, 101
+  orig: 247, 144
+  offset: 11, 24
+  index: -1
+images/TX/qipao/qipao (10)
+  rotate: false
+  xy: 219, 111
+  size: 214, 114
+  orig: 247, 144
+  offset: 21, 11
+  index: -1
+images/TX/qipao/qipao (11)
+  rotate: false
+  xy: 1456, 115
+  size: 180, 110
+  orig: 247, 144
+  offset: 42, 15
+  index: -1
+images/TX/qipao/qipao (12)
+  rotate: false
+  xy: 1273, 114
+  size: 181, 111
+  orig: 247, 144
+  offset: 41, 14
+  index: -1
+images/TX/qipao/qipao (13)
+  rotate: false
+  xy: 1803, 127
+  size: 192, 98
+  orig: 247, 144
+  offset: 30, 27
+  index: -1
+images/TX/qipao/qipao (14)
+  rotate: false
+  xy: 1070, 124
+  size: 201, 101
+  orig: 247, 144
+  offset: 21, 24
+  index: -1
+images/TX/qipao/qipao (2)
+  rotate: false
+  xy: 999, 11
+  size: 145, 111
+  orig: 247, 144
+  offset: 43, 14
+  index: -1
+images/TX/qipao/qipao (3)
+  rotate: false
+  xy: 1456, 2
+  size: 126, 111
+  orig: 247, 144
+  offset: 62, 14
+  index: -1
+images/TX/qipao/qipao (4)
+  rotate: false
+  xy: 857, 3
+  size: 140, 119
+  orig: 247, 144
+  offset: 48, 6
+  index: -1
+images/TX/qipao/qipao (5)
+  rotate: false
+  xy: 1803, 5
+  size: 143, 120
+  orig: 247, 144
+  offset: 47, 5
+  index: -1
+images/TX/qipao/qipao (6)
+  rotate: false
+  xy: 1638, 104
+  size: 163, 121
+  orig: 247, 144
+  offset: 45, 4
+  index: -1
+images/TX/qipao/qipao (7)
+  rotate: false
+  xy: 650, 110
+  size: 205, 115
+  orig: 247, 144
+  offset: 31, 10
+  index: -1
+images/TX/qipao/qipao (8)
+  rotate: false
+  xy: 435, 114
+  size: 213, 111
+  orig: 247, 144
+  offset: 25, 14
+  index: -1
+images/TX/qipao/qipao (9)
+  rotate: false
+  xy: 2, 111
+  size: 215, 114
+  orig: 247, 144
+  offset: 21, 11
+  index: -1
+images/TX/yanwu/预合成 2_00000
+  rotate: false
+  xy: 1146, 63
+  size: 44, 59
+  orig: 100, 100
+  offset: 25, 19
+  index: -1
+images/TX/yanwu/预合成 2_00001
+  rotate: false
+  xy: 810, 49
+  size: 44, 59
+  orig: 100, 100
+  offset: 25, 19
+  index: -1
+images/TX/yanwu/预合成 2_00002
+  rotate: false
+  xy: 571, 53
+  size: 45, 59
+  orig: 100, 100
+  offset: 25, 19
+  index: -1
+images/TX/yanwu/预合成 2_00003
+  rotate: false
+  xy: 571, 53
+  size: 45, 59
+  orig: 100, 100
+  offset: 25, 19
+  index: -1
+images/TX/yanwu/预合成 2_00004
+  rotate: false
+  xy: 524, 53
+  size: 45, 59
+  orig: 100, 100
+  offset: 25, 19
+  index: -1
+images/TX/yanwu/预合成 2_00005
+  rotate: false
+  xy: 524, 53
+  size: 45, 59
+  orig: 100, 100
+  offset: 25, 19
+  index: -1
+images/TX/yanwu/预合成 2_00006
+  rotate: false
+  xy: 333, 50
+  size: 46, 59
+  orig: 100, 100
+  offset: 25, 19
+  index: -1
+images/TX/yanwu/预合成 2_00007
+  rotate: false
+  xy: 285, 50
+  size: 46, 59
+  orig: 100, 100
+  offset: 25, 19
+  index: -1
+images/TX/yanwu/预合成 2_00008
+  rotate: false
+  xy: 285, 50
+  size: 46, 59
+  orig: 100, 100
+  offset: 25, 19
+  index: -1
+images/TX/yanwu/预合成 2_00009
+  rotate: false
+  xy: 237, 50
+  size: 46, 59
+  orig: 100, 100
+  offset: 25, 19
+  index: -1
+images/TX/yanwu/预合成 2_00010
+  rotate: false
+  xy: 237, 50
+  size: 46, 59
+  orig: 100, 100
+  offset: 25, 19
+  index: -1
+images/TX/yanwu/预合成 2_00011
+  rotate: false
+  xy: 189, 50
+  size: 46, 59
+  orig: 100, 100
+  offset: 25, 19
+  index: -1
+images/TX/yanwu/预合成 2_00012
+  rotate: false
+  xy: 477, 53
+  size: 45, 59
+  orig: 100, 100
+  offset: 27, 19
+  index: -1
+images/TX/yanwu/预合成 2_00013
+  rotate: false
+  xy: 477, 53
+  size: 45, 59
+  orig: 100, 100
+  offset: 27, 19
+  index: -1
+images/TX/yanwu/预合成 2_00014
+  rotate: false
+  xy: 141, 50
+  size: 46, 59
+  orig: 100, 100
+  offset: 26, 19
+  index: -1
+images/TX/yanwu/预合成 2_00015
+  rotate: false
+  xy: 141, 50
+  size: 46, 59
+  orig: 100, 100
+  offset: 26, 19
+  index: -1
+images/TX/yanwu/预合成 2_00016
+  rotate: false
+  xy: 1146, 5
+  size: 46, 56
+  orig: 100, 100
+  offset: 26, 19
+  index: -1
+images/TX/yanwu/预合成 2_00017
+  rotate: false
+  xy: 1146, 5
+  size: 46, 56
+  orig: 100, 100
+  offset: 26, 19
+  index: -1
+images/TX/yanwu/预合成 2_00018
+  rotate: false
+  xy: 762, 51
+  size: 46, 57
+  orig: 100, 100
+  offset: 26, 19
+  index: -1
+images/TX/yanwu/预合成 2_00019
+  rotate: false
+  xy: 714, 51
+  size: 46, 57
+  orig: 100, 100
+  offset: 26, 19
+  index: -1
+images/TX/yanwu/预合成 2_00020
+  rotate: false
+  xy: 714, 51
+  size: 46, 57
+  orig: 100, 100
+  offset: 26, 19
+  index: -1
+images/TX/yanwu/预合成 2_00021
+  rotate: false
+  xy: 666, 51
+  size: 46, 57
+  orig: 100, 100
+  offset: 26, 19
+  index: -1
+images/TX/yanwu/预合成 2_00022
+  rotate: false
+  xy: 618, 51
+  size: 46, 57
+  orig: 100, 100
+  offset: 26, 19
+  index: -1
+images/TX/yanwu/预合成 2_00023
+  rotate: false
+  xy: 429, 51
+  size: 46, 58
+  orig: 100, 100
+  offset: 25, 19
+  index: -1
+images/TX/yanwu/预合成 2_00024
+  rotate: false
+  xy: 381, 51
+  size: 46, 58
+  orig: 100, 100
+  offset: 25, 19
+  index: -1
+images/TX/yanwu/预合成 2_00025
+  rotate: false
+  xy: 381, 51
+  size: 46, 58
+  orig: 100, 100
+  offset: 25, 19
+  index: -1
+images/chong
+  rotate: false
+  xy: 141, 17
+  size: 87, 31
+  orig: 87, 31
+  offset: 0, 0
+  index: -1
+images/chong1
+  rotate: false
+  xy: 403, 13
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+images/di
+  rotate: false
+  xy: 318, 16
+  size: 83, 32
+  orig: 83, 32
+  offset: 0, 0
+  index: -1
+images/guo
+  rotate: false
+  xy: 2, 30
+  size: 137, 79
+  orig: 137, 87
+  offset: 0, 0
+  index: -1
+images/lac2
+  rotate: false
+  xy: 1657, 24
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+images/lj2
+  rotate: false
+  xy: 773, 5
+  size: 57, 16
+  orig: 57, 16
+  offset: 0, 0
+  index: -1
+images/tang
+  rotate: false
+  xy: 230, 17
+  size: 86, 31
+  orig: 86, 31
+  offset: 0, 0
+  index: -1
+images/xaingu
+  rotate: false
+  xy: 782, 23
+  size: 66, 24
+  orig: 66, 24
+  offset: 0, 0
+  index: -1

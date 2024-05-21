@@ -1,0 +1,15 @@
+info face="face" size=32
+common lineHeight=32 scaleW=136 scaleH=90 pages=1
+page id=0 file="WorldFont2.png"
+chars count=11
+char id=114 x=0 y=0 width=112 height=32 xoffset=0 yoffset=0 xadvance=112 page=0 chnl=15
+char id=48 x=0 y=34 width=22 height=27 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=49 x=24 y=34 width=22 height=27 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=50 x=48 y=34 width=22 height=27 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=51 x=72 y=34 width=22 height=27 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=52 x=0 y=63 width=22 height=27 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=53 x=24 y=63 width=22 height=27 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=54 x=48 y=63 width=22 height=27 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=55 x=72 y=63 width=22 height=27 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=56 x=114 y=0 width=22 height=27 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=57 x=114 y=29 width=22 height=27 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15

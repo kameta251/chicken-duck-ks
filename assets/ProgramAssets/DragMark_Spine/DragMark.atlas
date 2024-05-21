@@ -1,0 +1,34 @@
+
+DragMark.png
+size: 182, 41
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1
+  rotate: false
+  xy: 138, 2
+  size: 42, 37
+  orig: 44, 65
+  offset: 0, 1
+  index: -1
+2
+  rotate: false
+  xy: 93, 2
+  size: 43, 37
+  orig: 44, 65
+  offset: 0, 1
+  index: -1
+3
+  rotate: false
+  xy: 2, 2
+  size: 44, 37
+  orig: 44, 65
+  offset: 0, 1
+  index: -1
+4
+  rotate: false
+  xy: 48, 2
+  size: 43, 37
+  orig: 44, 65
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "6da35edd-c199-4599-998f-896dd65a74b8",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "6da35edd-c199-4599-998f-896dd65a74b8@6c48a",
+      "displayName": "Food_Beijingkaoya_Icon",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6da35edd-c199-4599-998f-896dd65a74b8",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "6da35edd-c199-4599-998f-896dd65a74b8@f9941",
+      "displayName": "Food_Beijingkaoya_Icon",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 1.5,
+        "offsetY": -7.5,
+        "trimX": 25,
+        "trimY": 26,
+        "width": 737,
+        "height": 457,
+        "rawWidth": 784,
+        "rawHeight": 494,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -368.5,
+            -228.5,
+            0,
+            368.5,
+            -228.5,
+            0,
+            -368.5,
+            228.5,
+            0,
+            368.5,
+            228.5,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            25,
+            468,
+            762,
+            468,
+            25,
+            11,
+            762,
+            11
+          ],
+          "nuv": [
+            0.03188775510204082,
+            0.022267206477732792,
+            0.9719387755102041,
+            0.022267206477732792,
+            0.03188775510204082,
+            0.9473684210526315,
+            0.9719387755102041,
+            0.9473684210526315
+          ],
+          "minPos": [
+            -368.5,
+            -228.5,
+            0
+          ],
+          "maxPos": [
+            368.5,
+            228.5,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6da35edd-c199-4599-998f-896dd65a74b8@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "type": "sprite-frame",
+    "redirect": "6da35edd-c199-4599-998f-896dd65a74b8@f9941"
+  }
+}

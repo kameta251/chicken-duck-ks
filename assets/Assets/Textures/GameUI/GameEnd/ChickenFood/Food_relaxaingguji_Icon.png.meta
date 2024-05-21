@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "ff260328-a7e9-4b20-9503-ef6c01efc20b",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "ff260328-a7e9-4b20-9503-ef6c01efc20b@6c48a",
+      "displayName": "Food_relaxaingguji_Icon",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ff260328-a7e9-4b20-9503-ef6c01efc20b",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "ff260328-a7e9-4b20-9503-ef6c01efc20b@f9941",
+      "displayName": "Food_relaxaingguji_Icon",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 5.5,
+        "trimX": 32,
+        "trimY": 3,
+        "width": 720,
+        "height": 477,
+        "rawWidth": 784,
+        "rawHeight": 494,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -360,
+            -238.5,
+            0,
+            360,
+            -238.5,
+            0,
+            -360,
+            238.5,
+            0,
+            360,
+            238.5,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            32,
+            491,
+            752,
+            491,
+            32,
+            14,
+            752,
+            14
+          ],
+          "nuv": [
+            0.04081632653061224,
+            0.02834008097165992,
+            0.9591836734693877,
+            0.02834008097165992,
+            0.04081632653061224,
+            0.9939271255060729,
+            0.9591836734693877,
+            0.9939271255060729
+          ],
+          "minPos": [
+            -360,
+            -238.5,
+            0
+          ],
+          "maxPos": [
+            360,
+            238.5,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ff260328-a7e9-4b20-9503-ef6c01efc20b@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "type": "sprite-frame",
+    "redirect": "ff260328-a7e9-4b20-9503-ef6c01efc20b@f9941"
+  }
+}

@@ -1,0 +1,38 @@
+info face="face" size=100
+common lineHeight=100 scaleW=563 scaleH=508 pages=1
+page id=0 file="Fnt_EatChicken.png"
+chars count=34
+char id=49 x=284 y=306 width=65 height=100 xoffset=0 yoffset=0 xadvance=65 page=0 chnl=15
+char id=50 x=368 y=102 width=71 height=100 xoffset=0 yoffset=0 xadvance=71 page=0 chnl=15
+char id=51 x=368 y=204 width=70 height=100 xoffset=0 yoffset=0 xadvance=70 page=0 chnl=15
+char id=52 x=286 y=102 width=78 height=100 xoffset=0 yoffset=0 xadvance=78 page=0 chnl=15
+char id=53 x=0 y=306 width=70 height=100 xoffset=0 yoffset=0 xadvance=70 page=0 chnl=15
+char id=54 x=155 y=204 width=74 height=100 xoffset=0 yoffset=0 xadvance=74 page=0 chnl=15
+char id=55 x=231 y=204 width=72 height=100 xoffset=0 yoffset=0 xadvance=72 page=0 chnl=15
+char id=56 x=204 y=0 width=80 height=100 xoffset=0 yoffset=0 xadvance=80 page=0 chnl=15
+char id=57 x=0 y=204 width=76 height=100 xoffset=0 yoffset=0 xadvance=76 page=0 chnl=15
+char id=48 x=204 y=102 width=80 height=100 xoffset=0 yoffset=0 xadvance=80 page=0 chnl=15
+char id=46 x=100 y=408 width=44 height=100 xoffset=0 yoffset=0 xadvance=44 page=0 chnl=15
+char id=43 x=368 y=0 width=72 height=100 xoffset=0 yoffset=0 xadvance=72 page=0 chnl=15
+char id=45 x=72 y=306 width=70 height=100 xoffset=0 yoffset=0 xadvance=70 page=0 chnl=15
+char id=42 x=442 y=0 width=64 height=100 xoffset=0 yoffset=0 xadvance=64 page=0 chnl=15
+char id=47 x=144 y=306 width=70 height=100 xoffset=0 yoffset=0 xadvance=70 page=0 chnl=15
+char id=61 x=78 y=204 width=75 height=100 xoffset=0 yoffset=0 xadvance=75 page=0 chnl=15
+char id=126 x=95 y=102 width=83 height=100 xoffset=0 yoffset=0 xadvance=83 page=0 chnl=15
+char id=33 x=508 y=204 width=52 height=100 xoffset=0 yoffset=0 xadvance=52 page=0 chnl=15
+char id=64 x=0 y=0 width=105 height=100 xoffset=0 yoffset=0 xadvance=105 page=0 chnl=15
+char id=35 x=0 y=102 width=93 height=100 xoffset=0 yoffset=0 xadvance=93 page=0 chnl=15
+char id=36 x=216 y=306 width=66 height=100 xoffset=0 yoffset=0 xadvance=66 page=0 chnl=15
+char id=37 x=107 y=0 width=95 height=100 xoffset=0 yoffset=0 xadvance=95 page=0 chnl=15
+char id=94 x=351 y=306 width=65 height=100 xoffset=0 yoffset=0 xadvance=65 page=0 chnl=15
+char id=38 x=286 y=0 width=80 height=100 xoffset=0 yoffset=0 xadvance=80 page=0 chnl=15
+char id=40 x=442 y=204 width=61 height=100 xoffset=0 yoffset=0 xadvance=61 page=0 chnl=15
+char id=41 x=508 y=0 width=55 height=100 xoffset=0 yoffset=0 xadvance=55 page=0 chnl=15
+char id=58 x=0 y=408 width=48 height=100 xoffset=0 yoffset=0 xadvance=48 page=0 chnl=15
+char id=59 x=305 y=204 width=58 height=100 xoffset=0 yoffset=0 xadvance=58 page=0 chnl=15
+char id=44 x=508 y=102 width=54 height=100 xoffset=0 yoffset=0 xadvance=54 page=0 chnl=15
+char id=12290 x=146 y=408 width=44 height=100 xoffset=0 yoffset=0 xadvance=44 page=0 chnl=15
+char id=91 x=508 y=306 width=51 height=100 xoffset=0 yoffset=0 xadvance=51 page=0 chnl=15
+char id=93 x=50 y=408 width=48 height=100 xoffset=0 yoffset=0 xadvance=48 page=0 chnl=15
+char id=123 x=442 y=306 width=61 height=100 xoffset=0 yoffset=0 xadvance=61 page=0 chnl=15
+char id=125 x=442 y=102 width=62 height=100 xoffset=0 yoffset=0 xadvance=62 page=0 chnl=15

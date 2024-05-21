@@ -1,0 +1,186 @@
+import { Game, find } from "cc";
+import { GameManager } from "../Manager/GameManager";
+import { Btns } from "./Btns";
+import { UIGameObj } from "./UIGameObj";
+import { GameRank } from "../../Assets/Scr/GameRank";
+import { WorldRank } from "../../Assets/Scr/WorldRank";
+import { Player } from "../Manager/PlayerManager";
+
+export class UIManager implements Observer {
+    CallBack(data: NotificationData): void {
+        switch (data.action) {
+            /**游戏一开始OnLoad */
+            case `OnLoad`:
+                this.OnLoad()
+                break
+
+            /**进入新一轮，UI初始化 */
+            case `OnNewRound`:
+                this.OnResetUI();
+                break
+
+            /**每帧运行 */
+            case `OnUpdate`:
+                this.OnUpdate()
+                break
+            /**游戏进行时每帧运行 */
+            case `OnGamingUpdate`:
+                break
+
+            /**加载Main后首次OnLoad */
+            case `OnLoadMain`:
+                this.OnLoadMain()
+                break
+
+            /**预加载世界排行 */
+            case `OnPreLoadWorldRank`:
+                this.OnPreLoadWorldRank()
+                break
+
+            /**一局游戏开始 */
+            case `OnGameStart`:
+                this.OnGameStart()
+                break
+
+            /**游戏结束，播放游戏结束动画，预加载结算排行 */
+            case `OnPreGameRank`:
+                //winner 0===鸡，1===鸭
+                let winner = data.data.Winner
+                this.OnPreLoadGameRank(winner)
+                this.onGameOver()
+                //TODO 播放游戏结束动画
+                this.UIGameObj.gameEndUI.showTip(winner)
+                //TODO 展示GameRank,延迟两秒
+                GameManager.instance.scheduleOnce(() => { this.OnShowGameRank() }, 2)
+                break
+
+            /**加入全屏特效
+             * @param data.data.FullscreenType 全屏特效类型： `WorldRank`;`Gift`
+             */
+            case `OnJoinFullscreenEffect`:
+                if (data.data.FullscreenType == `WorldRank`) { }
+                if (data.data.FullscreenType == `Gift`) { }
+                break
+
+            /**玩家加入提示 */
+            case `OnTipJoin`:
+                let player_join = data.data.player as Player
+                let player_type = player_join.player_type;
+                if (player_type === 0) {
+                    this.UIGameObj.gameHint.addChickenTip(player_join);
+                } else {
+                    this.UIGameObj.gameHint.addDuckTip(player_join);
+                }
+                break
+
+            //升级召唤小播报
+            case `OnTipGift`:
+                let player_gift = data.data.player as Player
+                // 0,1,2,3,4五种礼物
+                let GiftIndex = data.data.giftIndexID as number
+                //这次礼物送的数量
+                let gift_num = data.data.gift_num as number
+
+                let start_num = player_gift.gift_num[GiftIndex] > 5 ? 5 : player_gift.gift_num[GiftIndex]
+                if (GiftIndex === 0 || GiftIndex === 1) {
+                    start_num = 0;
+                }
+
+                if (player_gift.player_type === 0) {
+                    this.UIGameObj.gameHint.addJoinHintChickenTip(data);
+                } else {
+                    this.UIGameObj.gameHint.addJoinHintDuckTip(data);
+                }
+
+
+                break
+
+            /**升级弹播报 */
+            case `OnLevelUp`:
+                let player_levelup = data.data.player as Player
+                //玩家本局Coin1数量
+                player_levelup.gift_num[0]
+                break
+
+            /**点赞播报 */
+            case `OnTipLike`:
+                let player_like = data.data.player as Player
+                this.UIGameObj.gameHint.addLike(player_like)
+                console.log(`点赞: `,player_like.like_num)
+                break
+
+            /**大得分播报 */
+            case `OnTipBigScore`:
+                let player_BigScore = data.data.player as Player
+                this.UIGameObj.gameHint.addTotalsHintPro(player_BigScore)
+                break
+
+            /**小得分播报 */
+            case `OnTipSmallScore`:
+                let player_SmallScore = data.data.player as Player
+                this.UIGameObj.gameHint.addTotalsHintMini(player_SmallScore)
+                break
+
+        }
+    }
+    UIGameObj: UIGameObj = new UIGameObj()
+    WorldRank: WorldRank
+    GameRank: GameRank
+    Btns: Btns = new Btns()
+    OnLoad() {
+        this.UIGameObj.OnLoad()
+    }
+
+    OnUpdate() {
+        this.UIGameObj.OnUpdate()
+    }
+
+    OnLoadMain() {
+        this.WorldRank = find(`Canvas/Ranking/WorldRank`).getComponent(WorldRank)
+        this.GameRank = find(`Canvas/Ranking/GameRank`).getComponent(GameRank)
+        this.UIGameObj.OnLoadMain()
+        this.Btns.OnLoadMain()
+    }
+
+    OnPreLoadWorldRank() {
+        this.WorldRank.OnPreLoadWorldRank(GameManager.instance.DataManager.CurWorldRankList)
+    }
+
+    OnPreLoadGameRank(Winner: number) {
+        this.GameRank.OnPreLoadGameRank(GameManager.instance.DataManager.GameRankInfo, Winner)
+    }
+
+    OnShowGameRank() {
+        this.GameRank.node.active = true
+    }
+
+    OnGameStart() {
+        this.UIGameObj.gameStartVS.start()
+        // this.UIGameObj.startGameTime(this.gameTimeOver);
+    }
+
+    onGameOver(){
+        //隐藏终点提示
+        this.UIGameObj.gameHUD.setRest();
+        this.UIGameObj.cancelTime();
+        this.UIGameObj.gameHint.setReset()
+    }
+
+    OnResetUI() {
+        console.log("----OnResetUI-----");
+        this.UIGameObj.setReset();
+        this.UIGameObj.campInfo.setReset();
+        this.UIGameObj.gameProgress.setReset();
+        // this.UIGameObj.gameStartVS.start()
+<<<<<<< HEAD
+        // this.UIGameObj.startGameTime(this.gameTimeOver);
+=======
+        this.UIGameObj.startGameTime(this.gameTimeOver);
+>>>>>>> bce59475c6860bc7138e1c601cb6b626b692089d
+    }
+
+    gameTimeOver(){
+
+    }
+
+}
